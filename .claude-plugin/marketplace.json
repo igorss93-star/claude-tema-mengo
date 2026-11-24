@@ -1,0 +1,7 @@
+{
+  "name": "claude-tema-mengo",
+  "owner": { "name": "igorss93-star" },
+  "plugins": [
+    { "name": "mengo-celeste", "source": "./", "description": "Tema rubro-negro com celeste: escudo do Flamengo e bandeira do Uruguai nos cantos" }
+  ]
+}
